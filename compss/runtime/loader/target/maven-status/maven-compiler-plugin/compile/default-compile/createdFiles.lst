@@ -1,0 +1,14 @@
+integratedtoolkit/loader/ITAppLoader.class
+integratedtoolkit/loader/total/ArrayAccessWatcher.class
+integratedtoolkit/loader/total/StreamRegistry$StreamList.class
+integratedtoolkit/loader/total/StreamRegistry.class
+integratedtoolkit/loader/total/ITAppEditor$1.class
+integratedtoolkit/loader/total/ObjectRegistry.class
+integratedtoolkit/loader/total/ITAppModifier.class
+integratedtoolkit/loader/total/ITAppEditor.class
+integratedtoolkit/loader/LoaderUtils.class
+integratedtoolkit/loader/total/StreamRegistry$StreamDirection.class
+integratedtoolkit/loader/LoaderAPI.class
+integratedtoolkit/loader/AddOrchestration.class
+integratedtoolkit/loader/CustomLoader.class
+integratedtoolkit/loader/total/StreamRegistry$1.class

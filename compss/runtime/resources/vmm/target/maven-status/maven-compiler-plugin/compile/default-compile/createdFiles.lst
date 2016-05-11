@@ -1,0 +1,6 @@
+integratedtoolkit/connectors/vmm/VMTemplate.class
+integratedtoolkit/connectors/vmm/VMRequest.class
+integratedtoolkit/connectors/vmm/VMDescription.class
+integratedtoolkit/connectors/vmm/VMMClient.class
+integratedtoolkit/connectors/vmm/VMMConnector.class
+integratedtoolkit/connectors/vmm/VMs.class

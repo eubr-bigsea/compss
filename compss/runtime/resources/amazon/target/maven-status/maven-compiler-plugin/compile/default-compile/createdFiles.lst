@@ -1,0 +1,8 @@
+integratedtoolkit/connectors/amazon/AmazonVM$Small.class
+integratedtoolkit/connectors/amazon/AmazonVM$XLarge.class
+integratedtoolkit/connectors/amazon/AmazonVM$Micro.class
+integratedtoolkit/connectors/amazon/AmazonVM$Large.class
+integratedtoolkit/connectors/amazon/AmazonVM$VMType.class
+integratedtoolkit/connectors/amazon/AmazonVM.class
+integratedtoolkit/connectors/amazon/EC2.class
+integratedtoolkit/connectors/amazon/AmazonVM$Medium.class

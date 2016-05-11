@@ -1,0 +1,16 @@
+integratedtoolkit/types/project/ProjectFile.class
+integratedtoolkit/types/project/jaxb/ProjectType.class
+integratedtoolkit/types/project/jaxb/ImageType.class
+integratedtoolkit/types/project/jaxb/CloudType.class
+integratedtoolkit/types/project/jaxb/ImageListType.class
+integratedtoolkit/types/project/jaxb/PropertyType.class
+integratedtoolkit/types/project/jaxb/WorkerType.class
+integratedtoolkit/types/project/jaxb/Adaptor.class
+integratedtoolkit/types/project/jaxb/ResourceType.class
+integratedtoolkit/types/project/jaxb/ApplicationSoftwareType.class
+integratedtoolkit/types/project/jaxb/Adaptors.class
+integratedtoolkit/types/project/jaxb/ObjectFactory.class
+integratedtoolkit/types/project/jaxb/PackageType.class
+integratedtoolkit/types/project/jaxb/InstancesListTypes.class
+integratedtoolkit/types/project/jaxb/DataNodeType.class
+integratedtoolkit/types/project/jaxb/CloudProviderType.class
